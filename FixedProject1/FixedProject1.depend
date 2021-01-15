@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1538362201 source:d:\users\will\documents\school stuff and things\datastructures\fixedproject1\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<sstream>
+	<fstream>
+
+1538421411 source:d:\users\will\documents\school stuff and things\datastructures\fixedproject1\components.cpp
+	<iostream>
+	<vector>
+	<list>
+	<sstream>
+	<fstream>
+
